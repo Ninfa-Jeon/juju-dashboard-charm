@@ -1,5 +1,8 @@
 # Juju Dashboard Charm
 
+> [!NOTE]
+> This repository has been archived as the charms here have now been moved into the [Juju Dashboard](https://github.com/canonical/juju-dashboard/tree/main/charms). Any new updates to these charms will be made there.
+
 This repository contains charms that deploy the dashboard for [Juju](https://juju.is) and [JAAS](https://jaas.ai) into Machine and Kubernetes environments.
 
 [![Charm for Juju Dashboard
